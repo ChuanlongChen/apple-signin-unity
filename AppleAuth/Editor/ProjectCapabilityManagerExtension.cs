@@ -1,4 +1,4 @@
-#if UNITY_IOS || UNITY_TVOS || UNITY_VISIONOS
+#if UNITY_IOS || UNITY_TVOS
 
 using System;
 using System.Reflection;
